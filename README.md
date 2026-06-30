@@ -1,4 +1,2 @@
 # LIKLY-
-these is my learning repository
-<br>
- author :MOHITH KR
+these is my learning repository author :MOHITH KR
